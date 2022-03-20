@@ -2,6 +2,14 @@
 
 
 # Data 20/03/2022
+
+ng add @nebular/theme
+npm install --save @nebular/theme @angular/cdk @angular/animations
+npm install --save eva-icons @nebular/eva-icons
+
+Adicionando branch de trabalho ao repositório
+git push --set-upstream origin branch_black
+
 echo "# AppTracker_Danilo" >> README.md
 git init
 git add README.md
