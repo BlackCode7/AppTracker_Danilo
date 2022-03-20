@@ -3,6 +3,9 @@
 
 # Data 20/03/2022
 
+instruções do nebular
+https://akveo.github.io/nebular/docs/guides/install-nebular#manually
+
 ng add @nebular/theme
 npm install --save @nebular/theme @angular/cdk @angular/animations
 npm install --save eva-icons @nebular/eva-icons
