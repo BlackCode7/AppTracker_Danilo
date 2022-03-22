@@ -1,5 +1,5 @@
 {
-  "name": "tracker-app",
+  "name": "love-sat",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -30,7 +30,6 @@
     "@angular-devkit/build-angular": "~13.2.5",
     "@angular/cli": "~13.2.5",
     "@angular/compiler-cli": "~13.2.0",
-    "@schematics/angular": "~13.2.5",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
     "jasmine-core": "~4.0.0",

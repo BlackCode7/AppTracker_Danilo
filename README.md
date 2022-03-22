@@ -13,15 +13,15 @@ npm install --save eva-icons @nebular/eva-icons
 Adicionando branch de trabalho ao repositório
 git push --set-upstream origin branch_black
 
-echo "# AppTracker_Danilo" >> README.md
+echo "# love-sat" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/BlackCode7/AppTracker_Danilo.git
+git remote add origin https://github.com/BlackCode7/love-sat.git
 git push -u origin main
 …or push an existing repository from the command line
-git remote add origin https://github.com/BlackCode7/AppTracker_Danilo.git
+git remote add origin https://github.com/BlackCode7/love-sat.git
 git branch -M main
 git push -u origin main
 …or import code from another repository

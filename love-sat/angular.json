@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "tracker-app": {
+    "love-sat": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/tracker-app",
+            "outputPath": "dist/love-sat",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -31,8 +31,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "node_modules/@nebular/theme/styles/prebuilt/default.scss"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -73,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "tracker-app:build:production"
+              "browserTarget": "love-sat:build:production"
             },
             "development": {
-              "browserTarget": "tracker-app:build:development"
+              "browserTarget": "love-sat:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -84,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "tracker-app:build"
+            "browserTarget": "love-sat:build"
           }
         },
         "test": {
@@ -108,5 +107,5 @@
       }
     }
   },
-  "defaultProject": "tracker-app"
+  "defaultProject": "love-sat"
 }
