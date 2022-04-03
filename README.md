@@ -8,6 +8,9 @@
   ### GitFlow do projeto frontend
   https://github.com/users/BlackCode7/projects/4
   
+  ### GitFlow do projeto frontend/backend na AWS
+  https://github.com/users/BlackCode7/projects/6
+  
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Data 20/03/2022
