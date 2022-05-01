@@ -46,3 +46,7 @@ git branch -M main
 git push -u origin main
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Data 01/05/2022
+  Criei o banco de dados postgres - LoveSat - Falat criar as tabelas altomaticamente com hibernates
+  Criei o projeto no Google Cloud Maps - LoveSat-Tracker
